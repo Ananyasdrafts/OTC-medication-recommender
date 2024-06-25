@@ -35,7 +35,7 @@ Welcome to the OTC Medication Recommendation App repository! This project is des
 
 ### License
 
-- This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
 
 ### Contributing
 
