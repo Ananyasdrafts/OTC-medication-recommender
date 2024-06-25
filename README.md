@@ -20,8 +20,7 @@ Welcome to the OTC Medication Recommendation App repository! This project is des
 - `predict.ipynb`: Script for making medication predictions based on user input symptoms.
 - `frontend/`: Contains the code for the user interface of the app.
 - `saved_model/`: Contains the downloaded pickle files for the Random Forest Classifier model and its Label Encoder.
-- `best_otc_recommendation_model.pkl`: pickle file for the saved Random Forest Classifier
-- `label_encoder.pkl`: pickle file containinf the label encoder for the Random Forest Classifier
+- `Datasets\`: Folder containing relevant datasets.
 
 - `API.py`: API endpoint for the model and the interaction checker .
 - `interaction_checker/`: Contains the code for the drug-drug interaction checker.
