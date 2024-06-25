@@ -20,9 +20,7 @@ Welcome to the OTC Medication Recommendation App repository! This project is des
 - `predict.ipynb`: Script for making medication predictions based on user input symptoms.
 - `frontend/`: Contains the code for the user interface of the app.
 
-- `app.py`: Main application script for running the frontend.
-- `templates/`: HTML templates for the web interface.
-- `static/`: Static files (CSS, JavaScript) for the web interface.
+- `API.py`: API endpoint for the model and the interaction checker .
 - `interaction_checker/`: Contains the code for the drug-drug interaction checker.
 - `check_interaction.py`: Script for checking interactions between two medications.
 
