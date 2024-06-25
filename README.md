@@ -33,6 +33,10 @@ Welcome to the OTC Medication Recommendation App repository! This project is des
 - Python 3.x
 - Required libraries in `requirements.txt`
 
+### License
+
+- This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
+
 ### Contributing
 
 We welcome contributions to enhance the functionality and features of this app. To contribute, please fork the repository, create a new branch, make your changes, and submit a pull request.
