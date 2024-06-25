@@ -17,7 +17,7 @@ Welcome to the OTC Medication Recommendation App repository! This project is des
 
 - `model/`: Contains the code for training and utilizing the Random Forest Classifier for medication recommendations.
 - `train_model.py`: Script for training the Random Forest Classifier.
-- `predict.py`: Script for making medication predictions based on user input symptoms.
+- `predict.ipynb`: Script for making medication predictions based on user input symptoms.
 - `frontend/`: Contains the code for the user interface of the app.
 
 - `app.py`: Main application script for running the frontend.
