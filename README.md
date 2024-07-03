@@ -25,6 +25,7 @@ Welcome to the OTC Medication Recommendation App repository! This project is des
 - `API.py`: API endpoint for the model and the interaction checker .
 - `interaction_checker/`: Contains the code for the drug-drug interaction checker.
 - `check_interaction.py`: Script for checking interactions between two medications.
+- `requirements.txt`: Lists all the necessary libraries and dependencies required for the project, ensuring a smooth setup and consistent environment.
 
 
 
